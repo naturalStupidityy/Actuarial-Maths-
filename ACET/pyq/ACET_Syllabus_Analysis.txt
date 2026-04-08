@@ -1,0 +1,344 @@
+
+================================================================================
+                    ACET SYLLABUS REVERSE-ENGINEERED
+       Comprehensive Study List Based on Analysis of 24 Past Papers (2016-2026)
+================================================================================
+
+This analysis is based on a thorough review of all 24 ACET papers provided:
+• May 2016, October 2016
+• April 2017, June 2017
+• January 2018, June 2018, December 2018
+• June 2019, September 2019
+• February 2020, October 2020
+• January 2021, March 2021, December 2021
+• June 2022, November 2022
+• March 2023, June 2023, December 2023
+• May 2024, October 2024, December 2024
+• August 2025, January 2026
+
+================================================================================
+                           CLASS 12 MATHEMATICS
+================================================================================
+
+1. RELATIONS AND FUNCTIONS
+   Status: Direct
+   Frequency: Very High (appears in 20+ papers)
+   Application: Domain, range, function equality, composite functions, inverse 
+                functions, types of functions (injective, surjective, bijective)
+
+2. INVERSE TRIGONOMETRIC FUNCTIONS
+   Status: Direct
+   Frequency: High (appears in 15+ papers)
+   Application: Direct questions on principal values, identities involving 
+                inverse trig functions, simplification using inverse trig
+
+3. MATRICES
+   Status: Direct
+   Frequency: Very High (appears in 22+ papers)
+   Application: Matrix operations, transpose, inverse, rank of matrix, solving 
+                systems of equations, adjoint, determinant properties, matrix 
+                equations, special matrices (symmetric, skew-symmetric)
+
+4. DETERMINANTS
+   Status: Direct
+   Frequency: Very High (appears in 20+ papers)
+   Application: Evaluating determinants, properties of determinants, area of 
+                triangle, solving linear equations using Cramer's rule, 
+                minors and cofactors
+
+5. CONTINUITY AND DIFFERENTIABILITY
+   Status: Direct
+   Frequency: Very High (appears in 22+ papers)
+   Application: Checking continuity at a point, differentiability, finding 
+                derivatives using chain rule, implicit differentiation, 
+                parametric differentiation, second order derivatives
+
+6. APPLICATION OF DERIVATIVES
+   Status: Direct
+   Frequency: Very High (appears in 23+ papers)
+   Application: Increasing/decreasing functions, maxima/minima (local and 
+                global), tangents and normals, rate of change, optimization 
+                problems, Rolle's theorem, Lagrange's mean value theorem
+
+7. INTEGRALS
+   Status: Direct
+   Frequency: Very High (appears in all 24 papers)
+   Application: Indefinite integrals, definite integrals, substitution method, 
+                integration by parts, partial fractions, special integrals, 
+                properties of definite integrals
+
+8. APPLICATION OF INTEGRALS
+   Status: Direct
+   Frequency: High (appears in 15+ papers)
+   Application: Area under curves, area between curves, area bounded by 
+                regions, volume calculations
+
+9. DIFFERENTIAL EQUATIONS
+   Status: Direct
+   Frequency: Medium (appears in 10+ papers)
+   Application: Order and degree of differential equations, solving first-order 
+                differential equations, variable separable method, homogeneous 
+                equations, linear differential equations
+
+10. VECTOR ALGEBRA
+    Status: Direct
+    Frequency: Very High (appears in 22+ papers)
+    Application: Vector operations, dot product, cross product, scalar triple 
+                 product, vector triple product, angle between vectors, unit 
+                 vectors, position vectors, section formula
+
+11. THREE DIMENSIONAL GEOMETRY
+    Status: Direct
+    Frequency: High (appears in 15+ papers)
+    Application: Direction cosines and direction ratios, equation of lines and 
+                 planes in 3D, angle between lines/planes, distance from point 
+                 to plane, shortest distance between skew lines
+
+12. LINEAR PROGRAMMING
+    Status: Direct
+    Frequency: Medium (appears in 8+ papers)
+    Application: Formulation of LPP, graphical method, feasible region, 
+                 optimal solutions, corner point method
+
+13. PROBABILITY (Class 12)
+    Status: Direct
+    Frequency: Very High (appears in all 24 papers)
+    Application: Conditional probability, Bayes' theorem, independent events, 
+                 multiplication theorem, total probability theorem, random 
+                 variables, probability distributions
+
+================================================================================
+                           CLASS 11 MATHEMATICS
+================================================================================
+
+1. SETS
+   Status: Direct
+   Frequency: High (appears in 18+ papers)
+   Application: Set operations, Venn diagrams, union, intersection, complement, 
+                set builder notation, power sets, subsets
+
+2. RELATIONS AND FUNCTIONS (Class 11)
+   Status: Prerequisite
+   Frequency: Very High (used in all 24 papers)
+   Application: Cartesian product, types of relations (reflexive, symmetric, 
+                transitive), equivalence relations, one-one and onto functions, 
+                composition of functions
+
+3. TRIGONOMETRIC FUNCTIONS
+   Status: Direct + Prerequisite
+   Frequency: Very High (appears in all 24 papers)
+   Application: Direct questions on trig identities, complementary angles, 
+                periodicity; PREREQUISITE for calculus (integration of trig 
+                functions, derivatives of trig functions)
+
+4. COMPLEX NUMBERS
+   Status: Direct
+   Frequency: High (appears in 16+ papers)
+   Application: Modulus, argument, conjugate, polar form, Euler's form, 
+                operations with complex numbers, De Moivre's theorem
+
+5. LINEAR INEQUALITIES
+   Status: Direct
+   Frequency: Medium (appears in 10+ papers)
+   Application: Solving linear inequalities, graphical representation of 
+                inequalities, system of linear inequalities
+
+6. PERMUTATIONS AND COMBINATIONS
+   Status: Direct + Prerequisite
+   Frequency: Very High (appears in all 24 papers)
+   Application: Direct counting problems, arrangement problems, selection 
+                problems; PREREQUISITE for probability calculations, binomial 
+                theorem expansions
+
+7. BINOMIAL THEOREM
+   Status: Direct
+   Frequency: High (appears in 15+ papers)
+   Application: Expansion of binomial expressions, general term, middle term, 
+                binomial coefficients, properties of binomial coefficients, 
+                approximations using binomial theorem
+
+8. SEQUENCES AND SERIES
+   Status: Direct
+   Frequency: High (appears in 18+ papers)
+   Application: Arithmetic Progression (AP), Geometric Progression (GP), 
+                Harmonic Progression (HP), arithmetic mean, geometric mean, 
+                sum to n terms, sum of infinite GP, special series
+
+9. STRAIGHT LINES
+   Status: Direct
+   Frequency: Medium (appears in 12+ papers)
+   Application: Slope of a line, various forms of line equations, angle between 
+                lines, distance from point to line, distance between parallel 
+                lines, family of lines
+
+10. CONIC SECTIONS
+    Status: Direct
+    Frequency: Medium (appears in 10+ papers)
+    Application: Circle (equation, tangent, normal), parabola, ellipse, 
+                 hyperbola - standard equations and properties
+
+11. INTRODUCTION TO THREE DIMENSIONAL GEOMETRY
+    Status: Prerequisite
+    Frequency: High (used in 18+ papers)
+    Application: Distance formula in 3D, section formula, coordinates of points 
+                 in 3D space - PREREQUISITE for Class 12 3D geometry
+
+12. LIMITS AND DERIVATIVES
+    Status: Direct + Prerequisite
+    Frequency: Very High (appears in all 24 papers)
+    Application: Direct limit evaluation questions, algebra of limits, standard 
+                 limits, derivatives using first principle; PREREQUISITE for 
+                 calculus (differentiation, integration concepts)
+
+13. MATHEMATICAL REASONING
+    Status: Direct
+    Frequency: Low (appears in 5+ papers)
+    Application: Statements, logical connectives, negation, contrapositive, 
+                 converse, validity of statements
+
+14. STATISTICS (Class 11)
+    Status: Prerequisite
+    Frequency: High (used in 20+ papers)
+    Application: Measures of dispersion, mean deviation, variance, standard 
+                 deviation - PREREQUISITE for advanced statistics
+
+15. PROBABILITY (Class 11)
+    Status: Prerequisite
+    Frequency: Very High (used in all 24 papers)
+    Application: Basic probability concepts, sample space, events, mutually 
+                 exclusive events, exhaustive events - PREREQUISITE for Class 12 
+                 probability
+
+================================================================================
+                         ADDITIONAL TOPICS TESTED
+================================================================================
+
+STATISTICS (Advanced Topics - Beyond Class 11-12)
+-------------------------------------------------
+1. Measures of Central Tendency
+   Status: Direct | Frequency: Very High
+   Application: Mean, median, mode for grouped and ungrouped data, 
+                relationship between AM, GM, HM, weighted mean
+
+2. Measures of Dispersion
+   Status: Direct | Frequency: Very High
+   Application: Range, quartile deviation, mean deviation, standard deviation, 
+                variance, coefficient of variation, combined standard deviation
+
+3. Correlation and Regression
+   Status: Direct | Frequency: Very High
+   Application: Karl Pearson's correlation coefficient, Spearman's rank 
+                correlation, regression lines, regression coefficients, 
+                properties of regression coefficients
+
+4. Probability Distributions
+   Status: Direct | Frequency: Very High
+   Application: Binomial distribution, Poisson distribution, Normal distribution, 
+                their properties, mean, variance, probability calculations
+
+5. Random Variables
+   Status: Direct | Frequency: Very High
+   Application: Discrete and continuous random variables, PMF, PDF, CDF, 
+                expected value, variance, moments
+
+6. Sampling Theory
+   Status: Direct | Frequency: Medium
+   Application: Sampling methods, sampling distribution, standard error
+
+7. Hypothesis Testing
+   Status: Direct | Frequency: Low
+   Application: Null and alternative hypotheses, Type I and Type II errors
+
+8. Index Numbers
+   Status: Direct | Frequency: Medium
+   Application: Price index, quantity index, Laspeyres and Paasche indices
+
+9. Time Series Analysis
+   Status: Direct | Frequency: Medium
+   Application: Trend analysis, seasonal variations, moving averages
+
+DATA INTERPRETATION
+-------------------
+1. Tables - Status: Direct | Frequency: Very High
+2. Bar Charts (Simple, Multiple, Component, Cumulative) - Status: Direct | Frequency: Very High
+3. Pie Charts - Status: Direct | Frequency: Very High
+4. Line Graphs - Status: Direct | Frequency: Very High
+5. Mixed Graphs - Status: Direct | Frequency: High
+6. Caselets - Status: Direct | Frequency: High
+
+LOGICAL REASONING
+-----------------
+1. Syllogisms - Status: Direct | Frequency: Very High
+2. Blood Relations - Status: Direct | Frequency: Very High
+3. Coding-Decoding - Status: Direct | Frequency: Very High
+4. Direction Sense - Status: Direct | Frequency: Medium
+5. Seating Arrangements - Status: Direct | Frequency: High
+6. Puzzles - Status: Direct | Frequency: High
+7. Calendar Problems - Status: Direct | Frequency: High
+8. Clock Problems - Status: Direct | Frequency: High
+9. Series Completion - Status: Direct | Frequency: High
+10. Analogies - Status: Direct | Frequency: High
+11. Odd One Out - Status: Direct | Frequency: Medium
+12. Mathematical Operations - Status: Direct | Frequency: Medium
+13. Data Sufficiency - Status: Direct | Frequency: Medium
+14. Statement-Conclusion - Status: Direct | Frequency: High
+15. Statement-Assumption - Status: Direct | Frequency: Medium
+16. Cause and Effect - Status: Direct | Frequency: Medium
+17. Course of Action - Status: Direct | Frequency: Low
+18. Input-Output - Status: Direct | Frequency: Low
+
+ENGLISH
+-------
+1. Vocabulary (Synonyms/Antonyms) - Status: Direct | Frequency: Very High
+2. Idioms and Phrases - Status: Direct | Frequency: Very High
+3. One Word Substitution - Status: Direct | Frequency: Very High
+4. Sentence Completion - Status: Direct | Frequency: Very High
+5. Sentence Correction - Status: Direct | Frequency: Very High
+6. Para Jumbles - Status: Direct | Frequency: Very High
+7. Reading Comprehension - Status: Direct | Frequency: Very High
+8. Sentence Rearrangement - Status: Direct | Frequency: High
+9. Analogies - Status: Direct | Frequency: High
+10. Fact-Inference-Judgment - Status: Direct | Frequency: High
+
+================================================================================
+                         PRIORITY TOPICS SUMMARY
+================================================================================
+
+HIGHEST PRIORITY (Appear in almost every paper):
+-------------------------------------------------
+MATHEMATICS:
+• Integrals (Class 12)
+• Application of Derivatives (Class 12)
+• Matrices and Determinants (Class 12)
+• Vector Algebra (Class 12)
+• Trigonometric Functions (Class 11)
+• Permutations and Combinations (Class 11)
+• Limits and Derivatives (Class 11)
+
+STATISTICS:
+• Probability Distributions (Binomial, Poisson, Normal)
+• Random Variables
+• Measures of Central Tendency and Dispersion
+• Correlation and Regression
+
+DATA INTERPRETATION:
+• Tables
+• Bar Charts
+• Pie Charts
+• Line Graphs
+
+LOGICAL REASONING:
+• Syllogisms
+• Blood Relations
+• Seating Arrangements
+• Calendar and Clock Problems
+
+ENGLISH:
+• Vocabulary
+• Sentence Correction
+• Para Jumbles
+• Reading Comprehension
+
+================================================================================
+                              END OF ANALYSIS
+================================================================================
